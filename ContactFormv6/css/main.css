@@ -29,8 +29,8 @@
 [ RESTYLE TAG ]*/
 
 * {
-	margin: 0px; 
-	padding: 0px; 
+	margin: 0px;
+	padding: 0px;
 	box-sizing: border-box;
 }
 
@@ -104,37 +104,37 @@ textarea:focus:-moz-placeholder { color:transparent; }
 textarea:focus::-moz-placeholder { color:transparent; }
 textarea:focus:-ms-input-placeholder { color:transparent; }
 
-input::-webkit-input-placeholder { 
-  font-family: Poppins-Medium;  
+input::-webkit-input-placeholder {
+  font-family: Poppins-Medium;
   color: #555555;
 }
-input:-moz-placeholder { 
-  font-family: Poppins-Medium;  
+input:-moz-placeholder {
+  font-family: Poppins-Medium;
   color: #555555;
 }
-input::-moz-placeholder { 
-  font-family: Poppins-Medium;  
+input::-moz-placeholder {
+  font-family: Poppins-Medium;
   color: #555555;
 }
-input:-ms-input-placeholder { 
-  font-family: Poppins-Medium;  
+input:-ms-input-placeholder {
+  font-family: Poppins-Medium;
   color: #555555;
 }
 
-textarea::-webkit-input-placeholder { 
-  font-family: Poppins-Medium;  
+textarea::-webkit-input-placeholder {
+  font-family: Poppins-Medium;
   color: #555555;
 }
-textarea:-moz-placeholder { 
-  font-family: Poppins-Medium;  
+textarea:-moz-placeholder {
+  font-family: Poppins-Medium;
   color: #555555;
 }
-textarea::-moz-placeholder { 
-  font-family: Poppins-Medium;  
+textarea::-moz-placeholder {
+  font-family: Poppins-Medium;
   color: #555555;
 }
-textarea:-ms-input-placeholder { 
-  font-family: Poppins-Medium;  
+textarea:-ms-input-placeholder {
+  font-family: Poppins-Medium;
   color: #555555;
 }
 
